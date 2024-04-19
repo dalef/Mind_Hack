@@ -3,7 +3,10 @@
 #### How Engineering Taught Me To Manage My Emotions Better Than Therapy
 https://betterprogramming.pub/how-engineering-taught-me-to-manage-my-emotions-better-than-therapy-4faf8c533e69
 
+
 #### Engineering Happiness: A New Approach for Building a Joyful Life
+
+#### https://www.nami.org/Blogs/NAMI-Blog/November-2016/Discovering-New-Options-Self-Help-Cognitive-Behav
 
 #### Mental Health First Aid
 #### How to build a habit in 5 steps, according to science
