@@ -1,4 +1,5 @@
 # Mind_Hack
+https://github.com/dalef/Mind_Hack/blob/main/README.md
 
 #### How Engineering Taught Me To Manage My Emotions Better Than Therapy
 https://betterprogramming.pub/how-engineering-taught-me-to-manage-my-emotions-better-than-therapy-4faf8c533e69
