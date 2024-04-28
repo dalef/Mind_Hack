@@ -21,3 +21,6 @@ https://www.adrian.edu/files/assets/overcomingdepressionworkbook.pdf
 
 #### How to build a habit in 5 steps, according to science
 https://www.cnn.com/2021/11/29/health/5-steps-habit-builder-wellness/index.html
+
+#### Mental Health America Statistics
+https://mhanational.org/issues/state-mental-health-america
