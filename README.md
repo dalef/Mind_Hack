@@ -1,10 +1,14 @@
 # Mind_Hack
+
+#### This list
 https://github.com/dalef/Mind_Hack/blob/main/README.md
+
+
+#### Mind Hacking
+https://www.mindhacki.ng/
 
 #### How Engineering Taught Me To Manage My Emotions Better Than Therapy
 https://betterprogramming.pub/how-engineering-taught-me-to-manage-my-emotions-better-than-therapy-4faf8c533e69
-
-https://www.mindhacki.ng/
 
 
 #### Engineering Happiness: A New Approach for Building a Joyful Life
