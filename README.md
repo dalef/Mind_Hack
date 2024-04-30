@@ -33,6 +33,6 @@ https://www.cnn.com/2021/11/29/health/5-steps-habit-builder-wellness/index.html
 #### Ramana Maharishi
 https://en.wikipedia.org/wiki/Ramana_Maharshi
 #### Freedom Place Podcast
-TK's 16 podcasts are also on other services.
+TK's 16 podcasts are also on other services.\
 https://open.spotify.com/show/19nZvJTykeHPqmTadnB2GN
 
