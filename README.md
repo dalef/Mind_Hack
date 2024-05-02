@@ -43,3 +43,6 @@ https://www.moderneracounseling.com/depression-workbooks/
 #### Awe as a Pathway to Mental and Physical Health
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10018061/
 
+#### 50 Psychological Hacks for Better Mental Health (Esposito)
+https://www.psychologytoday.com/us/blog/anxiety-zen/201801/50-psychological-hacks-better-mental-health
+
