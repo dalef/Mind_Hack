@@ -40,3 +40,6 @@ https://open.spotify.com/show/19nZvJTykeHPqmTadnB2GN
 #### 6 Depression Workbooks for Adults That Aren’t Just Wellness Woo
 https://www.moderneracounseling.com/depression-workbooks/
 
+#### Awe as a Pathway to Mental and Physical Health
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10018061/
+
