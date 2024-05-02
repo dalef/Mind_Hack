@@ -7,19 +7,20 @@ https://github.com/dalef/Mind_Hack/blob/main/README.md
 #### Mental Health America Statistics
 https://mhanational.org/issues/state-mental-health-america
 
-#### Mind Hacking
+#### Mind Hacking (Hargrave)
 https://www.mindhacki.ng/
 
 #### How Engineering Taught Me To Manage My Emotions Better Than Therapy
 https://betterprogramming.pub/how-engineering-taught-me-to-manage-my-emotions-better-than-therapy-4faf8c533e69
 
 
-#### Overcoming Depression Workbook
+#### Overcoming Depression Workbook (Shapiro)
 https://www.adrian.edu/files/assets/overcomingdepressionworkbook.pdf
 
-#### A Guide for the Perplexed
+#### A Guide for the Perplexed (Schumacher)
 https://en.wikipedia.org/wiki/A_Guide_for_the_Perplexed
-#### Engineering Happiness: A New Approach for Building a Joyful Life
+
+#### Engineering Happiness: A New Approach for Building a Joyful Life (Caddes)
 
 #### https://www.nami.org/Blogs/NAMI-Blog/November-2016/Discovering-New-Options-Self-Help-Cognitive-Behav
 
