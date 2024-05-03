@@ -13,6 +13,8 @@ https://www.mindhacki.ng/
 #### How Engineering Taught Me To Manage My Emotions Better Than Therapy
 https://betterprogramming.pub/how-engineering-taught-me-to-manage-my-emotions-better-than-therapy-4faf8c533e69
 
+#### Rudi on the Wish to Grow
+https://www.rudi.org/teachings
 
 #### Overcoming Depression Workbook (Shapiro)
 https://www.adrian.edu/files/assets/overcomingdepressionworkbook.pdf
